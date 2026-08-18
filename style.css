@@ -1,3 +1,6 @@
 body {
-     blackground-color: red;
+     margin: 0;
+     font-family: arial, sans-serif;
+     blackground-color: #0a0a0a;
+     color: white;
 }
